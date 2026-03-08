@@ -1,1 +1,2 @@
-data/
+# Ignorar todos os arquivos dentro da pasta de dados brutos
+data/nao-processado
