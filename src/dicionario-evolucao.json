@@ -1,5 +1,8 @@
 {
-    "1.0": "Laboratório",
-    "2.0": "Clínico Epidemiológico",
-    "3.0": "Em investigação"
+    "1.0": "Cura",
+    "2.0": "Óbito pelo agravo",
+    "3.0": "Óbito por outras causas",
+    "4.0": "Óbito em investigação",
+    "9.0": "Ignorado"
+
 }
